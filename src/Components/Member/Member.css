@@ -1,0 +1,19 @@
+.member-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-gap: 5px;
+    /* margin-left: 50px;
+    margin-right: 5px; */
+}
+.friend-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   grid-gap: 5px;
+    
+}
+.cart-container{
+    background-color: white;
+/* border-right: 1px solid red; */
+    /* margin-right: 5px;
+    margin-left: 20px; */
+}

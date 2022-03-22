@@ -1,0 +1,19 @@
+.header{
+    background-color: lightcyan;
+    margin: 20px;
+    border: 3px solid goldenrod;
+    text-align: center;
+}
+.header h1{
+    color: blue;
+    font-size: 50px;
+}
+ .header p{
+    color:rgb(0, 255, 42);
+    font-size: 20px;
+    
+}
+.header  h2{
+    color:red;
+    font-size: 35px;
+}

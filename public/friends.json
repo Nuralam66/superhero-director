@@ -1,0 +1,122 @@
+ [
+  {
+    "name": "Md Anich",
+    "home": "Dinajpur",
+    "schoolOrCollage": "Parbatipur Adarsha Degree College",
+    "id": 101,
+    "img": "https://images.unsplash.com/photo-1528900403525-dc523d4f18d6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eW91bmclMjBtYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+    "mobile": 1799319302
+  },
+  {
+    "name": "Md Akther",
+    "home": "Bhola",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 102,
+    "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "mobile": 174171877
+  },
+  {
+    "name": "Md Torikul Islam Momin",
+    "home": "sirajgong",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg",
+    "id": 103,
+    "mobile": 1876494187
+  },
+  {
+    "name": "Ajadul",
+    "home": "Ghaibanda",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 104,
+    "img": "https://thumbs.dreamstime.com/b/handsome-man-hair-style-beard-beauty-face-portrait-fashion-male-model-black-hair-high-resolution-handsome-man-125031765.jpg",
+    "mobile": 1876494187
+  },
+  {
+    "name": "Md Imran Hossin RI",
+    "home": "Pabna",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 105,
+    "img": "https://images.unsplash.com/photo-1512353087810-25dfcd100962?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    "mobile": 179820284
+  },
+  {
+    "name": "mimi joe",
+    "home": "Barguna",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 106,
+    "img": "https://media.gettyimages.com/photos/studio-waist-up-portrait-of-a-beautiful-businesswoman-with-crossed-picture-id1180926773?s=612x612",
+    "mobile": 1685806389
+  },
+  {
+    "name": "Anonto Raj",
+    "home": "sirajgong",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 108,
+    "img": "https://thumbs.dreamstime.com/b/handsome-young-man-portrait-intense-look-eye-catching-beauty-fashionable-hair-beard-wearing-white-shirt-132578103.jpg",
+    "mobile": 1755779176
+  },
+  {
+    "name": "MD DK Nazmul Hossain",
+    "home": "Pabna",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 109,
+    "img": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "mobile": 1780802619
+  },
+  {
+    "name": "Nayan C S(Raj)",
+    "home": "Pabna",
+    "schoolCollage": "Patuakhali govt collage",
+    "id": 110,
+    "img": "https://media.istockphoto.com/photos/doing-business-with-his-brain-picture-id589544922?b=1&k=20&m=589544922&s=170667a&w=0&h=XKbCPbE-nCbqcCfXQxfeqRb5zPHN_L2Ze3ssQNA19ns=",
+    "mobile": 1777522908
+  },
+  {
+    "name": "Sumaiya Sadiya",
+    "home": "Bariahal",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 111,
+    "img": "https://media.istockphoto.com/photos/headshot-of-mature-50-years-old-asian-business-woman-on-grey-picture-id1317784594?b=1&k=20&m=1317784594&s=170667a&w=0&h=BV1ABS-tDluO-Qa0myWpstZFJd6navrs7OezTyNHnVg=",
+    "mobile": 1700000000
+  },
+  {
+    "name": "Md. Mehedi Hasan",
+    "home": "Dinajpur",
+    "schoolCollage": "Binnakuri High school",
+    "id": 112,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpJEtZue6c2PuJj-BrnoenSKzstCufZBoD_g&usqp=CAU",
+    "mobile": 1799295747
+  },
+  {
+    "name": "Borsha Roy",
+    "home": "Dinajpur",
+    "schoolCollage": "Thakurghah polytechinic instiute",
+    "id": 113,
+    "img": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "mobile": 1700000454
+  },
+  {
+    "name": "MD Monirujjaman Monir",
+    "home": "Dinajpur",
+    "schoolCollage": " Monmothpur Ideal Degree college",
+    "id": 114,
+    "img": "https://cdn.luxe.digital/media/2019/09/12090502/business-professional-dress-code-men-style-luxe-digital.jpg",
+    "mobile": 1790410000
+  },
+  {
+    "name": "Rakib Hossain",
+    "home": "Dinajpur",
+    "schoolCollage": "Nilphamari government college",
+    "id": 115,
+    "img": "https://media.istockphoto.com/photos/portrait-of-casual-smiling-man-picture-id1138562953?k=20&m=1138562953&s=612x612&w=0&h=lNhjf4BqFckYRzz5H-CsqWs4cpoPvatzTkjGJTcdm8M=",
+    "mobile": 1798947508
+  },
+  {
+    "name": "মো আরিফ মোল্লা(প্রস্তাবিত ইঞ্জিনিয়ার)",
+    "home": "Barishal",
+    "schoolCollage": "Patuakhali polytechinic instiute",
+    "id": 116,
+    "img": "https://static9.depositphotos.com/1371851/1111/i/600/depositphotos_11117961-stock-photo-handsome-young-man-outdoors.jpg",
+    "mobile": 1790470000
+  }
+]
